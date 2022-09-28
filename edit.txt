@@ -1,1 +1,1 @@
-Used for editing a files.
+Used for editing a files and records.
